@@ -1,2 +1,2 @@
 # Git_Course
-## Got_Course With Ossama Elzero
+## Git_Course With Ossama Elzero
